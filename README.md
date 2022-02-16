@@ -8,6 +8,10 @@ In this workshop, I will show you how to do more with Excel by combining it with
 
 👉 **WORKSHOP LINK:** https://www.meetup.com/Le-Wagon-Tokyo-Coding-Station/events/283845912/
 
+## Agenda
+![Agenda](https://github.com/Sven-Bo/supercharge-excel-workshop/raw/master/images/agenda.png)
+
+
 ## 🚀 About Le Wagon Tokyo
 
 Le Wagon Tokyo (https://www.lewagon.com/tokyo) is a top ranked coding school for startups, creative people and tech entrepreneurs.
